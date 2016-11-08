@@ -64,7 +64,7 @@ F 1 "CONN_02X14" V 4450 5200 50  0000 C CNN
 F 2 "Pin_Headers:Pin_Header_Straight_2x14" H 4450 4050 50  0001 C CNN
 F 3 "" H 4450 4050 50  0000 C CNN
 	1    4450 5200
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	3100 4550 3100 4100

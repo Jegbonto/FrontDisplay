@@ -67,25 +67,17 @@ F 3 "" H 4450 4050 50  0000 C CNN
 	-1   0    0    -1  
 $EndComp
 Wire Wire Line
-	3100 4550 3100 4100
-Wire Wire Line
 	4700 5850 4700 5950
 Wire Wire Line
 	4700 5950 4200 5950
 Wire Wire Line
 	4200 5950 4200 5850
 Wire Wire Line
-	4200 5850 3200 5850
-Wire Wire Line
-	3200 5850 3200 4100
-Wire Wire Line
 	4700 4550 4700 4450
 Wire Wire Line
 	4700 4450 4200 4450
 Wire Wire Line
 	4200 4450 4200 4550
-Wire Wire Line
-	4200 4550 3100 4550
 Wire Wire Line
 	4200 4650 4150 4650
 Wire Wire Line
@@ -203,11 +195,11 @@ Wire Wire Line
 Wire Wire Line
 	4100 4100 4100 4150
 Wire Wire Line
-	4100 4150 3750 4150
+	4100 4150 3850 4150
 Wire Wire Line
-	3750 4150 3750 5650
+	3850 4150 3850 5650
 Wire Wire Line
-	3750 5650 4200 5650
+	3850 5650 4200 5650
 Wire Wire Line
 	4700 5650 4750 5650
 Wire Wire Line
@@ -226,4 +218,12 @@ Wire Wire Line
 	4700 5700 3400 5700
 Wire Wire Line
 	3400 5700 3400 4100
+Text Label 4200 4450 0    60   ~ 0
+K1
+Text Label 4700 5950 0    60   ~ 0
+K2
+Text Label 3100 4100 2    60   ~ 0
+K1
+Text Label 3200 4100 0    60   ~ 0
+K2
 $EndSCHEMATC
